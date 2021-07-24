@@ -81,15 +81,45 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-little-journey.xhtml" id="a-little-journey.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/asleep-in-armageddon.xhtml" id="asleep-in-armageddon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/defense-mech.xhtml" id="defense-mech.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dont-get-technatal.xhtml" id="dont-get-technatal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/jonah-of-the-jove-run.xhtml" id="jonah-of-the-jove-run.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/lazarus-come-forth.xhtml" id="lazarus-come-forth.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/morgue-ship.xhtml" id="morgue-ship.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pillar-of-fire.xhtml" id="pillar-of-fire.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rocket-summer.xhtml" id="rocket-summer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-creatures-that-time-forgot.xhtml" id="the-creatures-that-time-forgot.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-fight-of-the-good-ship-clarissa.xhtml" id="the-fight-of-the-good-ship-clarissa.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-monster-maker.xhtml" id="the-monster-maker.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-pendulum.xhtml" id="the-pendulum.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-piper.xhtml" id="the-piper.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/zero-hour.xhtml" id="zero-hour.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="dont-get-technatal.xhtml"/>
+		<itemref idref="the-pendulum.xhtml"/>
+		<itemref idref="the-fight-of-the-good-ship-clarissa.xhtml"/>
+		<itemref idref="the-piper.xhtml"/>
+		<itemref idref="lazarus-come-forth.xhtml"/>
+		<itemref idref="the-monster-maker.xhtml"/>
+		<itemref idref="morgue-ship.xhtml"/>
+		<itemref idref="defense-mech.xhtml"/>
+		<itemref idref="the-creatures-that-time-forgot.xhtml"/>
+		<itemref idref="rocket-summer.xhtml"/>
+		<itemref idref="zero-hour.xhtml"/>
+		<itemref idref="asleep-in-armageddon.xhtml"/>
+		<itemref idref="jonah-of-the-jove-run.xhtml"/>
+		<itemref idref="pillar-of-fire.xhtml"/>
+		<itemref idref="a-little-journey.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
