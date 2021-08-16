@@ -30,43 +30,158 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Science fiction--Periodicals</dc:subject>
+		<dc:subject id="subject-2">Zines</dc:subject>
+		<dc:subject id="subject-3">Science fiction</dc:subject>
+		<dc:subject id="subject-4">Short stories</dc:subject>
+		<dc:subject id="subject-5">War stories</dc:subject>
+		<dc:subject id="subject-6">Space ships--Fiction</dc:subject>
+		<dc:subject id="subject-7">Morgues--Fiction</dc:subject>
+		<dc:subject id="subject-8">Adventure stories</dc:subject>
+		<dc:subject id="subject-9">Pirates--Fiction</dc:subject>
+		<dc:subject id="subject-10">Asteroids--Fiction</dc:subject>
+		<dc:subject id="subject-11">Psychological fiction</dc:subject>
+		<dc:subject id="subject-12">Mars (Planet)--Fiction</dc:subject>
+		<dc:subject id="subject-13">Space travelers--Fiction</dc:subject>
+		<dc:subject id="subject-14">Life on other planets--Fiction</dc:subject>
+		<dc:subject id="subject-15">Aging--Fiction</dc:subject>
+		<dc:subject id="subject-16">Space flight to the moon--Fiction</dc:subject>
+		<dc:subject id="subject-17">Children--Fiction</dc:subject>
+		<dc:subject id="subject-18">Human-alien encounters--Fiction</dc:subject>
+		<dc:subject id="subject-19">Parent and child--Fiction</dc:subject>
+		<dc:subject id="subject-20">Horror tales</dc:subject>
+		<dc:subject id="subject-21">Ghosts--Fiction</dc:subject>
+		<dc:subject id="subject-22">Castaways--Fiction</dc:subject>
+		<dc:subject id="subject-23">Nightmares--Fiction</dc:subject>
+		<dc:subject id="subject-24">Parapsychology--Fiction</dc:subject>
+		<dc:subject id="subject-25">Older men--Fiction</dc:subject>
+		<dc:subject id="subject-26">Murderers--Fiction</dc:subject>
+		<dc:subject id="subject-27">Swindlers and swindling--Fiction</dc:subject>
+		<dc:subject id="subject-28">Older women--Fiction</dc:subject>
+		<dc:subject id="subject-29">Space flight--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh2008111326</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh2005003810</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85118629</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85121813</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85145220</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008111361</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">Unknown</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh85001072</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2008109300</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">Unknown</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">sh85108438</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">sh2008115817</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">Unknown</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">sh2008106912</meta>
+		<meta property="authority" refines="#subject-15">LCSH</meta>
+		<meta property="term" refines="#subject-15">sh2008117555</meta>
+		<meta property="authority" refines="#subject-16">LCSH</meta>
+		<meta property="term" refines="#subject-16">Unknown</meta>
+		<meta property="authority" refines="#subject-17">LCSH</meta>
+		<meta property="term" refines="#subject-17">sh85023446</meta>
+		<meta property="authority" refines="#subject-18">LCSH</meta>
+		<meta property="term" refines="#subject-18">sh2008105650</meta>
+		<meta property="authority" refines="#subject-19">LCSH</meta>
+		<meta property="term" refines="#subject-19">sh2008108892</meta>
+		<meta property="authority" refines="#subject-20">LCSH</meta>
+		<meta property="term" refines="#subject-20">sh85062084</meta>
+		<meta property="authority" refines="#subject-21">LCSH</meta>
+		<meta property="term" refines="#subject-21">sh85054811</meta>
+		<meta property="authority" refines="#subject-22">LCSH</meta>
+		<meta property="term" refines="#subject-22">sh2008100157</meta>
+		<meta property="authority" refines="#subject-23">LCSH</meta>
+		<meta property="term" refines="#subject-23">Unknown</meta>
+		<meta property="authority" refines="#subject-24">LCSH</meta>
+		<meta property="term" refines="#subject-24">sh98004865</meta>
+		<meta property="authority" refines="#subject-25">LCSH</meta>
+		<meta property="term" refines="#subject-25">sh2008108621</meta>
+		<meta property="authority" refines="#subject-26">LCSH</meta>
+		<meta property="term" refines="#subject-26">sh2008107220</meta>
+		<meta property="authority" refines="#subject-27">LCSH</meta>
+		<meta property="term" refines="#subject-27">sh2008111401</meta>
+		<meta property="authority" refines="#subject-28">LCSH</meta>
+		<meta property="term" refines="#subject-28">sh2008108600</meta>
+		<meta property="authority" refines="#subject-29">LCSH</meta>
+		<meta property="term" refines="#subject-29">sh2008111360</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A collection of science fiction and fantasy stories by Ray Bradbury ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/41622</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/41624</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/41627</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/41651</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/63430</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/62569</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/63041</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/63648</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/63874</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/64181</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/64264</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/63827</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/64420</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/64673</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51171</dc:source>
+		<dc:source>https://archive.org/details/Futuria_Fantasia_v01n01_1939-Summer_UnkSc-cape1736edit</dc:source>
+		<dc:source>https://archive.org/details/Futuria_Fantasia_v01n02_1939-Fall_UnkSc-cape1736edit</dc:source>
+		<dc:source>https://archive.org/details/Futuria_Fantasia_v01n03_1940-Winter_UnkSc-cape1736edit</dc:source>
+		<dc:source>https://archive.org/details/Futuria_Fantasia_v01n04_1940_UnkSc-cape1736edit</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v02n09_1944-Wi_sas</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v02n06_1944-Spring</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v02n07_1944-Summer</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v03n02_1946-Spring</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v03n04_1946-Fall</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v03n06_1947-Spring</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v03n08_1947-Fall</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v04n01_1948-Winter</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v03n10_1948-Spring</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v03n11_1948-Summer</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1951-08</dc:source>
+		<meta property="se:production-notes">Stories "The Record" and "Lorelei of the Red Mist" are not included. They are collaborations and would better fit in Bradbury's coauthors' collections.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ray_Bradbury_short_fiction_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ray-bradbury_short-fiction</meta>
 		<dc:creator id="author">Ray Bradbury</dc:creator>
 		<meta property="file-as" refines="#author">Bradbury, Ray</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Ray Douglas Bradbury</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ray_Bradbury</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79139258</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Charles Piazzi Smyth</dc:contributor>
+		<meta property="file-as" refines="#artist">Smyth, Charles Piazzi</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Charles_Piazzi_Smyth</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85801477</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Matic Likar</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Likar, Matic</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
