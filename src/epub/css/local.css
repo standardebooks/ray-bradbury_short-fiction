@@ -16,19 +16,19 @@
 	display: none;
 }
 
-#asleep-in-armageddon q {
+#asleep-in-armageddon q{
 	font-style: italic;
 }
 
-#asleep-in-armageddon q em {
+#asleep-in-armageddon q em{
 	font-style: normal;
 }
 
-#pillar-of-fire blockquote {
+#pillar-of-fire blockquote{
 	text-align: center;
 }
 
-#a-little-journey blockquote > header {
+#a-little-journey blockquote > header{
 	text-align: center;
 	font-variant: small-caps;
 }
