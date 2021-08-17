@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-piper.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialog from the same speaker spans multiple paragraph elements.</reason>
+		</ignore>
+	</file>
+	<file path="lazarus-come-forth.xhtml">
+		<ignore>
+			<code>t-032</code>
+			<reason>"cvz" is a made-up unit.</reason>
+		</ignore>
+	</file>
+	<file path="pillar-of-fire.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Not a typo.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
