@@ -190,6 +190,7 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
@@ -207,6 +208,7 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/defense-mech.xhtml" id="defense-mech.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dont-get-technatal.xhtml" id="dont-get-technatal.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/jonah-of-the-jove-run.xhtml" id="jonah-of-the-jove-run.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/lazarus-come-forth.xhtml" id="lazarus-come-forth.xhtml" media-type="application/xhtml+xml"/>
@@ -241,6 +243,7 @@
 		<itemref idref="jonah-of-the-jove-run.xhtml"/>
 		<itemref idref="pillar-of-fire.xhtml"/>
 		<itemref idref="a-little-journey.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
