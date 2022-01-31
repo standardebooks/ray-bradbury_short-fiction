@@ -29,8 +29,8 @@
 }
 
 #a-little-journey blockquote > header{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 #pillar-of-fire-4 hr:nth-of-type(1) ~ p{
