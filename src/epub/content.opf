@@ -117,6 +117,7 @@
 		<meta property="term" refines="#subject-29">sh2008111360</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of science fiction and fantasy stories by Ray Bradbury ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ray-bradbury"&gt;Ray Bradbury&lt;/a&gt; is a giant of science fiction and fantasy. His childlike imagination, yearning for Mars, and love of all that is scary, horrible, and mysterious, reverberate throughout modern speculative fiction and our culture as a whole.&lt;/p&gt;
