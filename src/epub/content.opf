@@ -141,6 +141,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/64420</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/64673</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/51171</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/76857</dc:source>
 		<dc:source>https://archive.org/details/Futuria_Fantasia_v01n01_1939-Summer_UnkSc-cape1736edit</dc:source>
 		<dc:source>https://archive.org/details/Futuria_Fantasia_v01n02_1939-Fall_UnkSc-cape1736edit</dc:source>
 		<dc:source>https://archive.org/details/Futuria_Fantasia_v01n03_1940-Winter_UnkSc-cape1736edit</dc:source>
@@ -156,6 +157,7 @@
 		<dc:source>https://archive.org/details/Planet_Stories_v03n10_1948-Spring</dc:source>
 		<dc:source>https://archive.org/details/Planet_Stories_v03n11_1948-Summer</dc:source>
 		<dc:source>https://archive.org/details/galaxymagazine-1951-08</dc:source>
+		<dc:source>https://archive.org/details/Super_Science_Stories_v05n02_1949-04</dc:source>
 		<meta property="se:production-notes">Stories "The Record" and "Lorelei of the Red Mist" are not included. They are collaborations and would better fit in Bradbury's coauthors' collections.</meta>
 		<meta property="se:word-count">73417</meta>
 		<meta property="se:reading-ease.flesch">78.55</meta>
@@ -178,10 +180,13 @@
 		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
+		<dc:contributor id="transcriber-3">Roger Frank</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Frank, Roger</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net/</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Matic Likar</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Likar, Matic</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
@@ -195,6 +200,11 @@
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-3">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-3">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
@@ -209,6 +219,7 @@
 		<item href="text/defense-mech.xhtml" id="defense-mech.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dont-get-technatal.xhtml" id="dont-get-technatal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/i-mars.xhtml" id="i-mars.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/jonah-of-the-jove-run.xhtml" id="jonah-of-the-jove-run.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/lazarus-come-forth.xhtml" id="lazarus-come-forth.xhtml" media-type="application/xhtml+xml"/>
@@ -242,6 +253,7 @@
 		<itemref idref="asleep-in-armageddon.xhtml"/>
 		<itemref idref="jonah-of-the-jove-run.xhtml"/>
 		<itemref idref="pillar-of-fire.xhtml"/>
+		<itemref idref="i-mars.xhtml"/>
 		<itemref idref="a-little-journey.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
