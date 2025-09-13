@@ -159,8 +159,8 @@
 		<dc:source>https://archive.org/details/galaxymagazine-1951-08</dc:source>
 		<dc:source>https://archive.org/details/Super_Science_Stories_v05n02_1949-04</dc:source>
 		<meta property="se:production-notes">Stories "The Record" and "Lorelei of the Red Mist" are not included. They are collaborations and would better fit in Bradbury's coauthors' collections.</meta>
-		<meta property="se:word-count">73417</meta>
-		<meta property="se:reading-ease.flesch">78.55</meta>
+		<meta property="se:word-count">76530</meta>
+		<meta property="se:reading-ease.flesch">78.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ray_Bradbury_short_fiction_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ray-bradbury_short-fiction</meta>
 		<dc:creator id="author">Ray Bradbury</dc:creator>
