@@ -2,16 +2,19 @@
 <se-lint-ignore>
 	<file path="lazarus-come-forth.xhtml">
 		<ignore code="t-032">
+			<line>160</line>
 			<reason>"cvz" is a made-up unit.</reason>
 		</ignore>
 	</file>
 	<file path="pillar-of-fire.xhtml">
 		<ignore code="y-001">
+			<line>329</line>
 			<reason>Not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="the-piper.xhtml">
 		<ignore code="t-003">
+			<line>69</line>
 			<reason>Dialog from the same speaker spans multiple paragraph elements.</reason>
 		</ignore>
 	</file>
