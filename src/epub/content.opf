@@ -120,7 +120,7 @@
 		<meta property="schema:genre">Science Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of science fiction and fantasy stories by Ray Bradbury ordered by date of publication.</dc:abstract>
+		<meta property="schema:abstract">A collection of science fiction and fantasy stories by Ray Bradbury ordered by date of publication.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ray-bradbury"&gt;Ray Bradbury&lt;/a&gt; is a giant of science fiction and fantasy. His childlike imagination, yearning for Mars, and love of all that is scary, horrible, and mysterious, reverberate throughout modern speculative fiction and our culture as a whole.&lt;/p&gt;
 			&lt;p&gt;He has received countless awards including the Sir Arthur Clark Award, the World Fantasy Award for Life Achievement, an Emmy Award, and a National Medal of Arts. Along with terrestrial honorary street names, there are many extraterrestrial locations named in Bradbury’s honor such as Bradbury Landing, the landing site of the Mars &lt;i&gt;Curiosity&lt;/i&gt; rover.&lt;/p&gt;
